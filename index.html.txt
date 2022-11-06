@@ -2,7 +2,9 @@
 <html>
 <head>
 <title>Hello World!</title>
+<div><img src="img_hello_world.jpg" alt="Hello World from Space"
 <link rel="stylesheet" href="bluestyle.css">
+<fix>
 </head>
 <body>
 
